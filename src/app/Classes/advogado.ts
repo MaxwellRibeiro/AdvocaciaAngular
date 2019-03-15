@@ -4,4 +4,6 @@ export class Advogado {
     telefone: string;
     cpf: string;
     profissao: string;
+
+    
 }
